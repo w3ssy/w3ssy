@@ -1,3 +1,20 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a00,100:00ff41&height=140&section=header&text=W3SSY&fontColor=00ff41&fontSize=44&fontAlignY=35&desc=SYSTEM%20ONLINE&descAlignY=58&animation=fadeIn" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=1800&pause=700&color=00FF41&center=true&vCenter=true&width=700&lines=W3SSY;Laravel+%7C+Web+%7C+AI+%7C+Automation;Lua+%2F+CFX+%2F+RedM" />
 </p>
+
+<p align="center">
+  <code>./build --mode=matrix</code><br/>
+  <sub>Laravel • Websites • AI • Automation • Lua / CFX / RedM</sub>
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+**[FOCUS]**
+```text
+- Laravel apps
+- Websites / web tools
+- AI workflows
+- Automation
+- Server tooling
