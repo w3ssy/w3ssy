@@ -7,9 +7,9 @@
   <sub>Laravel • Websites • AI • Automation • Lua / CFX / RedM</sub>
 </p>
 
-<table align="center">
+<table align="center" width="70%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="70%" valign="top">
 
 **[FOCUS]**
 ```md
