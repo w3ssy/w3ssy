@@ -1,33 +1,61 @@
-<h1 align="center">Hey, I'm Wessy 👋</h1>
+<h1 align="center">Wessy</h1>
 
 <p align="center">
-  <b>Laravel • Web Development • AI • Automation • Lua / CFX / RedM</b>
+  <b>Laravel · Web Development · AI · Automation · Lua / CFX / RedM</b><br/>
+  Building practical systems, clean workflows, and custom tooling.
 </p>
 
 <p align="center">
-  Building practical systems, useful tools, and clean workflows.
+  <a href="https://linktr.ee/wessy85">Linktree</a> ·
+  <a href="https://github.com/w3ssy">GitHub</a>
 </p>
 
 ---
 
-### What I build
-- Laravel applications
-- Websites and web tools
-- AI workflows and automations
-- Game/server tooling
-- Custom scripts and utilities
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### Tech stack
-- Laravel / PHP
-- JavaScript / HTML / CSS
-- AI tooling
+### Focus
+- Laravel apps
+- Websites & web tools
+- AI workflows
 - Automation
-- Lua / CFX / RedM
+- Game/server tooling
 
-### Featured projects
-- 3dme
-- wessy_autovote
-- wessy_shooting
+    </td>
+    <td width="50%" valign="top">
+
+### Stack
+- PHP / Laravel
+- JavaScript / HTML / CSS
+- Lua / CFX / RedM
+- AI tooling
+- Git / GitHub
+
+    </td>
+  </tr>
+</table>
+
+---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### Featured
+- **3dme** — optimized roleplay utility
+- **wessy_autovote** — vote automation
+- **wessy_shooting** — time-based shooting range
+
+    </td>
+    <td width="50%" valign="top">
 
 ### Contact
+- Cologne, Germany
 - Linktree: https://linktr.ee/wessy85
+- Open for dev / automation / web work
+
+    </td>
+  </tr>
+</table>
