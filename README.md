@@ -12,7 +12,7 @@
     <td width="50%" valign="top">
 
 **[FOCUS]**
-```text
+```md
 - Laravel apps
 - Websites / web tools
 - AI workflows
