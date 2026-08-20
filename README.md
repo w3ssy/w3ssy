@@ -6,15 +6,3 @@
   <code>./build --mode=matrix</code><br/>
   <sub>Laravel • Websites • AI • Automation • Lua / CFX / RedM</sub>
 </p>
-
-<table align="center" width="70%">
-  <tr>
-    <td width="70%" valign="top">
-
-**[FOCUS]**
-```md
-- Laravel apps
-- Websites / web tools
-- AI workflows
-- Automation
-- Server tooling
